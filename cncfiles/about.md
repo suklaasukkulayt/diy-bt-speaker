@@ -1,2 +1,2 @@
 # Info about the CNC machine files  
-Coming soon...
+Made with Easel, no screw holes included. Top panel has no file.

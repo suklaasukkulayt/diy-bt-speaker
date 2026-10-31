@@ -10,7 +10,9 @@ You will also need wood (I used particleboard), staining varnish and acrylic sea
 ### Other info  
 Screw holes are **not** included in the CNC files. You need to make them by yourself. Also the top panel with the buttons does not have a file with the holes for the rubber button thing.  
 More info about other stuff and (maybe) building about this project is here:  [Stardance](https://stardance.hackclub.com/projects/39114)  
-Showcase video: [YouTube](https://www.youtube.com/shorts/X91US23UtD8)  
+
+
+**Showcase video:** [YouTube](https://www.youtube.com/shorts/X91US23UtD8)  
 
 ### Photos from inside:
 <img width="3072" height="4096" alt="IMG20261031161302" src="https://github.com/user-attachments/assets/3b9f89a7-062c-4a26-8b46-ef3a2e1293e9" />

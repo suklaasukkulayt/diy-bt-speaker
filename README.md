@@ -5,9 +5,9 @@ This is a GitHub repository for the DIY Portable Bluetooth speaker project made 
 This speaker uses a main board from an old Streetz bluetooth speaker ([CMB-110](https://amzn.eu/d/0365UWwi)), with Bluetooth, AUX and USB playback support. It even supports TWS. It also has a ~3000mah battery and LED lighting. The amplifier has a peak power of 2*15W.  
 ## Building instructions  
 ### Required materials:  
-Check out [materials-speaker.csv](./materials-speaker.csv)  
+Check out [materials_speaker.csv](./materials_speaker.csv)  
 You will also need wood (I used particleboard), staining varnish and acrylic sealant and screws of your choice. I used mostly Torx screws, but also some Philips screws for buttons.  
-My particleboard is 9mm thick.  
+The particleboard I used is 9mm thick.  
 ### Dimensions:
 #### Front and back:
 Width: ~125mm  
@@ -18,6 +18,9 @@ Height: ~125mm
 #### Top and bottom: 
 Width: ~165mm  
 Height: ~140mm  
+
+Both speaker elements are about 4"  
+Passive bass radiator is about 3,5"  
 ### Other info  
 Screw holes are **not** included in the CNC files. You need to make them by yourself. Also the top panel with the buttons does not have a file with the holes for the rubber button thing.  
 More info about other stuff and (maybe) building about this project is here:  [Stardance](https://stardance.hackclub.com/projects/39114)  

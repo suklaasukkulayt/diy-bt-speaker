@@ -7,6 +7,17 @@ This speaker uses a main board from an old Streetz bluetooth speaker ([CMB-110](
 ### Required materials:  
 Check out [materials-speaker.csv](./materials-speaker.csv)  
 You will also need wood (I used particleboard), staining varnish and acrylic sealant and screws of your choice. I used mostly Torx screws, but also some Philips screws for buttons.  
+My particleboard is 9mm thick.  
+### Dimensions:
+#### Front and back:
+Width: ~125mm  
+Height: ~125mm  
+#### Sides:
+Width: ~165mm  
+Height: ~125mm  
+#### Top and bottom: 
+Width: ~165mm  
+Height: ~140mm  
 ### Other info  
 Screw holes are **not** included in the CNC files. You need to make them by yourself. Also the top panel with the buttons does not have a file with the holes for the rubber button thing.  
 More info about other stuff and (maybe) building about this project is here:  [Stardance](https://stardance.hackclub.com/projects/39114)  

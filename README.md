@@ -21,6 +21,13 @@ Height: ~140mm
 
 Both speaker elements are about 4"  
 Passive bass radiator is about 3,5"  
+
+### Pinout
+RGB LED to CN2 (VCC, GND, DATA (data not used here, but it can be) with ~33 Ω resistor  
+Speakers to SPKL3 and SPKL4  
+Battery to 5pin connector without proper marking (no pin name)  
+See [amp-pinout.jpg](./amp-pinout.jpg)
+
 ### Other info  
 Screw holes are **not** included in the CNC files. You need to make them by yourself. Also the top panel with the buttons does not have a file with the holes for the rubber button thing.  
 More info about other stuff and (maybe) building about this project is here:  [Stardance](https://stardance.hackclub.com/projects/39114)  

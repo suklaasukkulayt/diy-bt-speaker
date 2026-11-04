@@ -26,12 +26,12 @@ Passive bass radiator is about 3,5"
 RGB LED to CN2 (VCC, GND, DATA (data not used here, but it can be) with ~33 Ω resistor  
 Speakers to SPKL3 and SPKL4  
 Battery to 5pin connector without proper marking (no pin name)  
-See [amp-pinout.jpg](./amp-pinout.jpg)
+See [pinout.jpg](./pinout.jpg)
 
 ### Other info  
 Screw holes are **not** included in the CNC files. You need to make them by yourself. Also the top panel with the buttons does not have a file with the holes for the rubber button thing.  
 More info about other stuff and (maybe) building about this project is here:  [Stardance](https://stardance.hackclub.com/projects/39114)  
-
+Because I used a closed source amplifier board, i'm unable to provide firmware or other stuff for it.  
 
 **Showcase video:** [YouTube](https://www.youtube.com/shorts/X91US23UtD8)  
 

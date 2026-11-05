@@ -2,7 +2,7 @@
 ## About  
 This is a GitHub repository for the DIY Portable Bluetooth speaker project made for the Stardance event. [Link to the project](https://stardance.hackclub.com/projects/39114)  
 
-I CAN'T EASILY MAKE A STEP FILE FOR THIS, BECAUSE THIS ISN'T FULLY DESIGNED IN ANY CAD (only some files are included), I ALSO DON'T HAVE THE FUSION360 FILES BECAUSE THEY ARE LOST FOREVER
+I CAN'T EASILY MAKE A STEP FILE FOR THIS, BECAUSE THIS ISN'T FULLY DESIGNED IN ANY CAD (all designed files are included, but I don't have the Fusion360 files, they are lost forever sadly)
 
 This speaker uses a main board from an old Streetz bluetooth speaker ([CMB-110](https://amzn.eu/d/0365UWwi)), with Bluetooth, AUX and USB playback support. It even supports TWS. It also has a ~3000mah battery and LED lighting. The amplifier has a peak power of 2*15W.  
 ## Building instructions  

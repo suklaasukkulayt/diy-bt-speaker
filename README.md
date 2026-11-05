@@ -8,7 +8,7 @@ This speaker uses a main board from an old Streetz bluetooth speaker ([CMB-110](
 ## Building instructions  
 ### Required materials:  
 Check out [materials_speaker.csv](./materials_speaker.csv)  
-You will also need wood (I used particleboard), staining varnish and acrylic sealant and screws of your choice(files don't have screw holes, I did them with a drill). I used 16pc 3x15 self-drilling Torx screws for the wood pieces, 8pc 3x10 self-drilling Torx screws for the speakers, 8pc M2x8 Philips screws for 3d printed button stuff and also 4 4x10 self-drilling screws for the 3d printed passive bass radiator holder.  
+You will also need wood (I used particleboard), staining varnish and acrylic sealant and screws of your choice(files don't have screw holes, I did them with a drill). I used 16pc 3x15 self-drilling Torx screws for the wood pieces, 8pc 3x10 self-drilling Torx screws for the speakers, 8pc M2x8 Philips screws for 3d printed button stuff and also 4pc 4x10 self-drilling screws for the 3d printed passive bass radiator holder.  
 The particleboard I used is 9mm thick.  
 ### Dimensions:
 #### Front and back:

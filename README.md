@@ -12,6 +12,10 @@ Check out [materials_speaker.csv](./materials_speaker.csv)
 You will also need wood (I used **9mm thick particleboard**), **staining varnish**(I just used clear wood varnish) and **acrylic sealant** and screws of your choice(files **don't** have screw holes, I did them with a drill). Buy them from the shop of your choice(I recommend a local wood working shop or something like that) if you don't already have them. I couldn't properly find them on Amazon.  
 I used **16pc 3x15 self-drilling Torx screws** for the wood pieces, **8pc 3x10 self-drilling Torx screws** for the speakers, **8pc M2x8 Philips screws** for 3d printed button stuff and also **4pc 4x10 self-drilling screws** for the 3d printed passive bass radiator holder.  
 
+### Tinkercad project links:   
+Speaker button holder: https://www.tinkercad.com/things/j2SFZEY8TWe-speaker-button-holder-v3  
+Speaker grill: https://www.tinkercad.com/things/2xRmWbCSoIy-speaker-grill-for-4-speakers  
+
 ### Dimensions:
 #### Front and back:
 Width: ~125mm  
